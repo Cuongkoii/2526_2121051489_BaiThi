@@ -1,4 +1,6 @@
+namespace _2526_2121051489_BaiThi.Models;
 public class NhaCungCap
+
 {
     public int Id { get; set; }
 
